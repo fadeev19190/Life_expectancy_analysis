@@ -63,3 +63,7 @@ We will predict life expectancy in different countries and years. You have train
 
 **Sample of the first rows of the `results.csv` file:**
 
+Country,Year,Life expectancy
+Peru,2012,71.4
+Peru,2013,72.6
+
